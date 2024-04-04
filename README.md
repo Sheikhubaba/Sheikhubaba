@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheikhubaba
+- 👋 Hi, I’m @Sheikh
 - 👀 I’m interested in ... development, design
 - 🌱 I’m currently learning ... phyton and javascript
 - 💞️ I’m looking to collaborate on ...app development
